@@ -1,2 +1,3 @@
 This is a creation of b1 file
 Addin line to check pull/fetch inb1file
+adding in local to check merge conflict
